@@ -1,5 +1,13 @@
 # Week 3 — Bio foundation models as tools
 
+
+
+
+
+
+
+
+
 **Dates.** Monday 8 June – Friday 12 June 2026  
 **Live sessions (Europe/Prague).**
 
